@@ -553,7 +553,7 @@ margin-left: 80px;
                     overflow: auto;
                     border-radius: 4px;
                     width: 408px;
-                    height: 80%;
+            
                     min-height: 584px;
                     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 2px 1px 0 rgba(0, 0, 0, 0.2);
                     background-color: #fcfcfc;
@@ -605,10 +605,7 @@ margin-left: 80px;
 
                 }
                 .form{
-                    border-radius: 4px;
-                    width: 360px;
-                    height: 336px;
-                    padding-left: 24px;
+                   
                 }
                 .form-wrapper{
                     margin-bottom: 8px;
